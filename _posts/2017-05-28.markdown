@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Welcome to Sayaan's Page"
+date:   2017-01-23 21:24:10 -0800
+categories: jekyll update
+---
+
+Living and Working in San Francisco. 
+
+
+{% highlight python %}
+def the_grind:
+	while (5 > 1):
+		print("Work")
+		print("Eat")
+		print("Sleep")
+{% endhighlight %}
